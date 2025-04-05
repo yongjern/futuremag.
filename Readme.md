@@ -9,4 +9,4 @@
 在新的一季，未來季刊與您共攜步入全球視野，共同探索未來的可能性。本刊既是一場知識的饗宴，也是一次深思的旅程。期待與您分享這些重要事件與實用資訊！
 
 ---
-[下載刊物]() · [提出建議](https://github.com/yongjern/futuremag./issues) · [Github 純享版]()
+[下載刊物](https://github.com/yongjern/futuremag./releases/tag/ai-season) · [提出建議](https://github.com/yongjern/futuremag./issues) · [Github 純享版]()
